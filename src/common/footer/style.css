@@ -1,0 +1,39 @@
+footer {
+  background-color: hsl(180, 74%, 46%);
+  padding: 100px 0;
+  color: #fff;
+}
+footer h1 {
+  margin-bottom: 30px;
+  color: -webkit-linear-gradient(#eee, rgb(69, 57, 248));
+  font-weight: 800;
+  font-style: italic;
+}
+footer .img {
+  padding: 15px 20px;
+  border-radius: 5px;
+}
+footer .img i {
+  font-size: 20px;
+  margin: 5px;
+}
+footer .img span {
+  margin-top: 5px;
+}
+footer p {
+  font-size: 24px;
+  font-weight: 600;
+  opacity: 0.5;
+  margin-bottom: 20px;
+  color: black;
+}
+footer h2 {
+  margin-bottom: 20px;
+}
+footer li {
+  margin-bottom: 10px;
+  opacity: 0.5;
+  font-weight: 600;
+  font-size: 24px;
+  color:black;
+}
